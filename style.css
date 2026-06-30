@@ -5,6 +5,7 @@ body {
 
 img {
     border: none;
+    width: 80%;
 }
 
 div#counter {
