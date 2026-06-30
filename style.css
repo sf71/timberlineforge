@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+img {
+    border: none;
+}
+
+div#counter {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    height: 16px;
+    background-color: black;
+    border: black 3px solid;
+    border-radius: 3px;
+}
