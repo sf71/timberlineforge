@@ -6,7 +6,12 @@ body {
 
 img {
     border: none;
-    width: 80%;
+    max-width: 80%;
+    max-height: 80%;
+}
+
+div#frame {
+    margin: 5em;
 }
 
 div#counter {
